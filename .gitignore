@@ -1,0 +1,18 @@
+# Unreal / VS
+.vs/
+.vscode/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.VC.db
+*.VC.opendb
+*.sln.docstates
+*.ipch/
+*.obj
+*.pdb
+*.ilk
+
+# OS junk
+.DS_Store
+Thumbs.db
